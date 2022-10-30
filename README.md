@@ -13,3 +13,5 @@ Machine Learning using Jupyter Notebook to solve the lab tasks.
 ## Resources
 
 https://jupyter-notebook.readthedocs.io/en/latest/
+
+https://github.com/AndreeaDraghici/Learning-basics-Jupyter-Notebook
