@@ -8,3 +8,8 @@ Machine Learning using Jupyter Notebook to solve the lab tasks.
 ## Task details
 
 **Linear Regression Lab:** Predict the consumption (Fuel Efficiency variable) of a car starting from the following data set: https://www.kaggle.com/datasets/anushabellam/cars-cars-2
+
+
+## Resources
+
+https://jupyter-notebook.readthedocs.io/en/latest/
