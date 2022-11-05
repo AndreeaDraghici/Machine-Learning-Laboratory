@@ -17,6 +17,12 @@ Machine Learning using Jupyter Notebook to solve the lab tasks.
 
 ## Resources
 
+https://github.com/PPStef/invatare-automata-lab/tree/master/4.%20Clasificatoare/Clasificatoare%20Bayesiene
+
+https://www.geeksforgeeks.org/decision-tree-implementation-python/
+
+https://medium.com/@mer423/decision-tree-visualization-e82dc6d5bf9c
+
 https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052
 
 https://github.com/PPStef/invatare-automata-lab/tree/master/3.%20Arbori%20de%20decizie
