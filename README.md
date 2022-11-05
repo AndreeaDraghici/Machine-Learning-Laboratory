@@ -2,11 +2,12 @@
 Machine Learning using Jupyter Notebook to solve the lab tasks.
 
 ## How to run
+-----------------------------------
 ![image](https://user-images.githubusercontent.com/72825756/197519913-6435e6d3-7e06-4264-a6ef-98e93375faf1.png)
 
 
 ## Task details
-
+-----------------------------------
 **Linear Regression Lab:** Predict the consumption (Fuel Efficiency variable) of a car starting from the following data set: https://www.kaggle.com/datasets/anushabellam/cars-cars-2
 
 **Decision Trees Lab:** Predict the position within the company (job role) starting from the following dataset: https://www.kaggle.com/esmaeil391/ibm-hr
@@ -16,6 +17,9 @@ Machine Learning using Jupyter Notebook to solve the lab tasks.
  Use a decision tree algorithm for experiments in addition to Naive Bayes.
 
 ## Resources
+---------------------------------------
+
+https://www.geeksforgeeks.org/naive-bayes-classifiers/
 
 https://github.com/PPStef/invatare-automata-lab/tree/master/4.%20Clasificatoare/Clasificatoare%20Bayesiene
 
