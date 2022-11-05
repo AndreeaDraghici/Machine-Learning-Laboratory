@@ -1,5 +1,5 @@
 ## Machine-Learning-Laboratory
-Machine Learning using Jupyter Notebook to solve the lab tasks.
+Machine Learning using Jupyter Notebook and Python to solve the lab tasks.
 
 ## How to run
 -----------------------------------
