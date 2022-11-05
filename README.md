@@ -12,7 +12,8 @@ Machine Learning using Jupyter Notebook to solve the lab tasks.
 **Decision Trees:** Predict the position within the company (job role) starting from the following dataset: https://www.kaggle.com/esmaeil391/ibm-hr
  Implement the possibility of classifying a single instance read from the file or from the keyboard. 
  
- 
+ **Naive Bayes:** Predict the review(positive or negative) starting grom the data set: https://www.kaggle.com/datasets/team-ai/spam-text-message-classification 
+ Use a decision tree algorithm for experiments in addition to Naive Bayes.
 
 ## Resources
 
