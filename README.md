@@ -15,9 +15,18 @@ Machine Learning using Jupyter Notebook and Python to solve the lab tasks.
  
  **Naive Bayes Lab:** Predict the review(positive or negative) starting grom the data set: https://www.kaggle.com/datasets/team-ai/spam-text-message-classification 
  Use a decision tree algorithm for experiments in addition to Naive Bayes.
-
+ 
+ **Clustering Lab:** Compare at least 2 clustering algorithms on the dataset: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+ Use two methods of data visualization. What metrics did you use for comparison?
+ 
 ## Resources
 ---------------------------------------
+
+https://www.geeksforgeeks.org/k-means-clustering-introduction/
+
+https://www.w3schools.com/python/python_ml_hierarchial_clustering.asp
+
+https://github.com/PPStef/invatare-automata-lab/tree/master/5.%20Clustering
 
 https://www.geeksforgeeks.org/naive-bayes-classifiers/
 
