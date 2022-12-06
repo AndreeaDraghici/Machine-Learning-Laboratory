@@ -19,8 +19,17 @@ Machine Learning using Jupyter Notebook and Python to solve the lab tasks.
  **Clustering Lab:** Compare at least 2 clustering algorithms on the dataset: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
  Use two methods of data visualization. What metrics did you use for comparison?
  
+**PCA Lab:** Evaluate the impact that the application of the PCA algorithm has on the dataset: https://www.kaggle.com/datasets/crawford/gene-expression  Gradually reduce the number of attributes and use a classification algorithm to evaluate performance at each step. 
+
+ 
 ## Resources
 ---------------------------------------
+
+https://www.kaggle.com/code/nirajvermafcb/principal-component-analysis-explained/notebook
+
+https://www.kaggle.com/code/rangarirb/pca-tutorial/notebook
+
+https://github.com/PPStef/invatare-automata-lab/tree/master/7.%20Algoritmi%20pentru%20reducerea%20numarului%20de%20atribute 
 
 https://www.geeksforgeeks.org/k-means-clustering-introduction/
 
