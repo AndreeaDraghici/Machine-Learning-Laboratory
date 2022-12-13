@@ -21,9 +21,15 @@ Machine Learning using Jupyter Notebook and Python to solve the lab tasks.
  
 **PCA Lab:** Evaluate the impact that the application of the PCA algorithm has on the dataset: https://www.kaggle.com/datasets/crawford/gene-expression  Gradually reduce the number of attributes and use a classification algorithm to evaluate performance at each step. 
 
+**Ensemble Lab:** For the MNIST dataset (https://www.kaggle.com/oddrationale/mnist-in-csv), please predict the number (label column) using at least one ensemble algorithm and another classical algorithm. Compare both the accuracy and the training time (possibly also validation) for the two algorithms.
  
 ## Resources
 ---------------------------------------
+https://www.kaggle.com/code/pragyanbo/ensemble-learning-methods-using-titanic-dataset/notebook
+
+https://www.kaggle.com/code/fengdanye/machine-learning-6-basic-ensemble-learning/notebook
+
+https://www.kaggle.com/code/amrmahmoud123/1-guide-to-ensembling-methods/notebook
 
 https://www.kaggle.com/code/nirajvermafcb/principal-component-analysis-explained/notebook
 
